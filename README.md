@@ -1,6 +1,6 @@
 # Disaster-Management-Hackatohn-Jsp-Servlet-Javascript-Bootstrap-GoogleMapApi
 # ‘Mapathpon’(GetSaved) webapp for emergency management personnel for any kind of Rescue Operation
-# Got 1st position in hackathon (Ureck-a-thon, 23rd-24th jan,2019)
+# Got 1st position in hackathon (Ureck-a-thon, 23rd - 24th Jan,2019)
 # Hackathon organised by ( 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐬 ):
   # 1. Facebook Developer Circle: Kolkata
    # 2. Google Developer Group(GDG) Kolkata   
